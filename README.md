@@ -99,10 +99,6 @@ Android App ↔ Spring Boot API ↔ FastAPI AI Service ↔ MySQL Database
 * Software testing and clean architecture
 
 
-## 📊 GitHub Stats
-
-(Add GitHub Stats widgets here)
-
 ---
 
 ⭐ Always learning, building and improving.
